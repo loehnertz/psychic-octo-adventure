@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInformation Version="1.0">
+  <Model>
+    <P Name="SavedCharacterEncoding">UTF-8</P>
+    <Object PropName="HDLParams" ObjectID="1" ClassName="slprops.hdlmdlprops">
+      <Array PropName="mdlProps" Type="Cell" Dimension="1*2">
+        <Cell Class="char">HDLSubsystem</Cell>
+        <Cell Class="char">untitled</Cell>
+      </Array>
+    </Object>
+    <P Name="SLXCompressionType">Normal</P>
+    <P Name="ScopeRefreshTime">0.035000</P>
+    <P Name="OverrideScopeRefreshTime">off</P>
+    <P Name="DisableAllScopes">off</P>
+    <P Name="DataTypeOverride">UseLocalSettings</P>
+    <P Name="DataTypeOverrideAppliesTo">AllNumericTypes</P>
+    <P Name="MinMaxOverflowLogging">UseLocalSettings</P>
+    <P Name="MinMaxOverflowArchiveMode">Overwrite</P>
+    <P Name="FPTRunName">Active</P>
+    <P Name="MaxMDLFileLineLength">120</P>
+    <P Name="LastSavedArchitecture">maci64</P>
+    <Object PropName="BdWindowsInfo" ObjectID="2" ClassName="Simulink.BDWindowsInfo">
+      <Object PropName="WindowsInfo" ObjectID="3" ClassName="Simulink.WindowInfo">
+        <P Name="IsActive" Class="logical">1</P>
+        <P Name="Location" Class="double">[16.0, 39.0, 1648.0, 995.0]</P>
+        <Object PropName="ModelBrowserInfo" ObjectID="4" ClassName="Simulink.ModelBrowserInfo">
+          <P Name="Visible" Class="logical">0</P>
+          <P Name="DockPosition" Class="char">Left</P>
+          <P Name="Width" Class="int32">50</P>
+          <P Name="Height" Class="int32">50</P>
+          <P Name="Filter" Class="int32">9</P>
+        </Object>
+        <Object PropName="ExplorerBarInfo" ObjectID="5" ClassName="Simulink.ExplorerBarInfo">
+          <P Name="Visible" Class="logical">1</P>
+        </Object>
+        <Object PropName="EditorsInfo" ObjectID="6" ClassName="Simulink.EditorInfo">
+          <P Name="IsActive" Class="logical">1</P>
+          <P Name="ViewObjType" Class="char">SimulinkTopLevel</P>
+          <P Name="LoadSaveID" Class="char">0</P>
+          <P Name="Extents" Class="double">[1610.0, 819.0]</P>
+          <P Name="ZoomFactor" Class="double">1.25</P>
+          <P Name="Offset" Class="double">[10.752822950548307, 101.582036527398]</P>
+        </Object>
+        <Object PropName="DockComponentsInfo" ObjectID="7" ClassName="Simulink.DockComponentInfo">
+          <P Name="Type" Class="char">GLUE2:PropertyInspector</P>
+          <P Name="ID" Class="char">Property Inspector</P>
+          <P Name="Visible" Class="logical">0</P>
+          <P Name="CreateCallback" Class="char"/>
+          <P Name="UserData" Class="char"/>
+          <P Name="Floating" Class="logical">0</P>
+          <P Name="DockPosition" Class="char">Right</P>
+          <P Name="Width" Class="int32">640</P>
+          <P Name="Height" Class="int32">480</P>
+        </Object>
+        <P Name="WindowState" Class="char">AAAA/wAAAAD9AAAAAgAAAAAAAAC9AAAB+PwCAAAAA/sAAAAWAEQAbwBjAGsAVwBpAGQAZwBlAHQAMwEAAAAxAAAB+AAAAAAAAAAA+wAAABYARABvAGMAawBXAGkAZABnAGUAdAA0AAAAAAD/////AAAAAAAAAAD7AAAAUgBHAEwAVQBFADIAIAB0AHIAZQBlACAAYwBvAG0AcABvAG4AZQBuAHQALwBHAEwAVQBFADIAIAB0AHIAZQBlACAAYwBvAG0AcABvAG4AZQBuAHQAAAAAAP////8AAABrAP///wAAAAEAAAAAAAAAAPwCAAAAAfsAAABUAEcATABVAEUAMgA6AFAAcgBvAHAAZQByAHQAeQBJAG4AcwBwAGUAYwB0AG8AcgAvAFAAcgBvAHAAZQByAHQAeQAgAEkAbgBzAHAAZQBjAHQAbwByAAAAAAD/////AAAAOQD///8AAAZwAAADbgAAAAEAAAACAAAAAQAAAAL8AAAAAQAAAAIAAAAP/////wAAAAAA/////wAAAAAAAAAA/////wEAAAAA/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wEAAACE/////wAAAAAAAAAA/////wEAAAD2/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wEAAAF6/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wEAAAOh/////wAAAAAAAAAA/////wEAAAPQ/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA</P>
+      </Object>
+    </Object>
+    <P Name="HideAutomaticNames">on</P>
+    <ConfigManagerSettings>
+      <P Name="UpdateHistory">UpdateHistoryNever</P>
+      <P Name="ModifiedByFormat">%&lt;Auto&gt;</P>
+      <P Name="ModifiedDateFormat">%&lt;Auto&gt;</P>
+      <P Name="RTWModifiedTimeStamp">463414933</P>
+      <P Name="ModelVersionFormat">1.%&lt;AutoIncrement:1&gt;</P>
+    </ConfigManagerSettings>
+    <EditorSettings>
+      <P Name="SampleTimeColors">on</P>
+      <P Name="SampleTimeAnnotations">on</P>
+      <P Name="LibraryLinkDisplay">none</P>
+      <P Name="WideLines">off</P>
+      <P Name="ShowLineDimensions">off</P>
+      <P Name="ShowPortDataTypes">on</P>
+      <P Name="ShowAllPropagatedSignalLabels">off</P>
+      <P Name="PortDataTypeDisplayFormat">AliasTypeOnly</P>
+      <P Name="ShowEditTimeErrors">off</P>
+      <P Name="ShowEditTimeWarnings">off</P>
+      <P Name="ShowEditTimeAdvisorChecks">off</P>
+      <P Name="ShowPortUnits">off</P>
+      <P Name="ShowDesignRanges">off</P>
+      <P Name="ShowLoopsOnError">on</P>
+      <P Name="IgnoreBidirectionalLines">off</P>
+      <P Name="ShowStorageClass">off</P>
+      <P Name="ShowTestPointIcons">off</P>
+      <P Name="ShowSignalResolutionIcons">off</P>
+      <P Name="ShowViewerIcons">off</P>
+      <P Name="SortedOrder">off</P>
+      <P Name="VariantCondition">off</P>
+      <P Name="ShowSubsystemDomainSpec">off</P>
+      <P Name="ExecutionContextIcon">off</P>
+      <P Name="ShowLinearizationAnnotations">off</P>
+      <P Name="ShowVisualizeInsertedRTB">on</P>
+      <P Name="ShowMarkup">on</P>
+      <P Name="BlockNameDataTip">off</P>
+      <P Name="BlockParametersDataTip">off</P>
+      <P Name="BlockDescriptionStringDataTip">off</P>
+      <P Name="BlockVariantConditionDataTip">off</P>
+      <P Name="ToolBar">on</P>
+      <P Name="StatusBar">on</P>
+      <P Name="BrowserShowLibraryLinks">off</P>
+      <P Name="FunctionConnectors">off</P>
+      <P Name="BrowserLookUnderMasks">off</P>
+      <P Name="MultiThreadCoSim">on</P>
+    </EditorSettings>
+    <SimulationSettings>
+      <P Name="SimulationMode">normal</P>
+      <P Name="VisualizeLoggedSignalsWhenLoggingToFile">off</P>
+      <P Name="PauseTimes">5</P>
+      <P Name="NumberOfSteps">1</P>
+      <P Name="SnapshotBufferSize">10</P>
+      <P Name="SnapshotInterval">10</P>
+      <P Name="NumberOfLastSnapshots">0</P>
+      <P Name="EnablePacing">off</P>
+      <P Name="PacingRate">1</P>
+      <P Name="LinearizationMsg">none</P>
+      <P Name="Profile">off</P>
+      <P Name="ParamWorkspaceSource">MATLABWorkspace</P>
+      <P Name="AccelSystemTargetFile">accel.tlc</P>
+      <P Name="AccelTemplateMakefile">accel_default_tmf</P>
+      <P Name="AccelMakeCommand">make_rtw</P>
+      <P Name="TryForcingSFcnDF">off</P>
+      <Object PropName="DataLoggingOverride" ObjectID="8" ClassName="Simulink.SimulationData.ModelLoggingInfo">
+        <P Name="model_" Class="char">$bdroot</P>
+        <P Name="signals_" Class="double">[]</P>
+        <P Name="overrideMode_" Class="double">0.0</P>
+        <Array PropName="logAsSpecifiedByModels_" Type="Cell" Dimension="1*1">
+          <Cell Class="char">$bdroot</Cell>
+        </Array>
+        <Array PropName="logAsSpecifiedByModelsSSIDs_" Type="Cell" Dimension="1*1">
+          <Cell>[]</Cell>
+        </Array>
+      </Object>
+    </SimulationSettings>
+    <ExternalMode>
+      <P Name="ExtModeBatchMode">off</P>
+      <P Name="ExtModeEnableFloating">on</P>
+      <P Name="ExtModeTrigType">manual</P>
+      <P Name="ExtModeTrigMode">normal</P>
+      <P Name="ExtModeTrigPort">1</P>
+      <P Name="ExtModeTrigElement">any</P>
+      <P Name="ExtModeTrigDuration">2</P>
+      <P Name="ExtModeTrigDurationFloating">auto</P>
+      <P Name="ExtModeTrigHoldOff">0</P>
+      <P Name="ExtModeTrigDelay">0</P>
+      <P Name="ExtModeTrigDirection">rising</P>
+      <P Name="ExtModeTrigLevel">0</P>
+      <P Name="ExtModeArchiveMode">off</P>
+      <P Name="ExtModeAutoIncOneShot">off</P>
+      <P Name="ExtModeIncDirWhenArm">off</P>
+      <P Name="ExtModeAddSuffixToVar">off</P>
+      <P Name="ExtModeWriteAllDataToWs">off</P>
+      <P Name="ExtModeArmWhenConnect">on</P>
+      <P Name="ExtModeSkipDownloadWhenConnect">off</P>
+      <P Name="ExtModeLogAll">on</P>
+      <P Name="ExtModeAutoUpdateStatusClock">on</P>
+    </ExternalMode>
+    <ModelReferenceSettings>
+      <P Name="ShowModelReferenceBlockVersion">off</P>
+      <P Name="ShowModelReferenceBlockIO">off</P>
+      <P Name="OrderedModelArguments">on</P>
+    </ModelReferenceSettings>
+    <ConcurrentExecutionSettings>
+      <Object PropName="DataTransfer" ObjectID="9" ClassName="Simulink.GlobalDataTransfer">
+        <P Name="DefaultTransitionBetweenSyncTasks" Class="char">Ensure deterministic transfer (maximum delay)</P>
+        <P Name="DefaultTransitionBetweenAsyncTasks" Class="char">Ensure data integrity only</P>
+        <P Name="DefaultTransitionBetweenContTasks" Class="char">Ensure deterministic transfer (minimum delay)</P>
+        <P Name="DefaultExtrapolationMethodBetweenContTasks" Class="char">None</P>
+        <P Name="AutoInsertRateTranBlk" Class="logical">0</P>
+      </Object>
+      <P Name="ExplicitPartitioning">off</P>
+    </ConcurrentExecutionSettings>
+    <System>
+      <P Name="Location">[16, 39, 1664, 1034]</P>
+      <P Name="Open">on</P>
+      <P Name="SetExecutionDomain">off</P>
+      <P Name="ExecutionDomainType">Deduce</P>
+      <P Name="ZoomFactor">125</P>
+      <P Name="ReportName">simulink-default.rpt</P>
+      <P Name="SIDHighWatermark">77</P>
+      <Block BlockType="SubSystem" Name="Algorithm" SID="77">
+        <P Name="Ports">[]</P>
+        <P Name="Position">[735, 334, 875, 426]</P>
+        <P Name="ZOrder">60</P>
+        <P Name="ErrorFcn">Stateflow.Translate.translate</P>
+        <P Name="PermitHierarchicalResolution">ExplicitOnly</P>
+        <P Name="TreatAsAtomicUnit">on</P>
+        <P Name="RequestExecContextInheritance">off</P>
+        <P Name="SFBlockType">Chart</P>
+        <P Name="ContentPreviewEnabled">on</P>
+        <System>
+          <P Name="Location">[186, 89, 929, 809]</P>
+          <P Name="SetExecutionDomain">off</P>
+          <P Name="ExecutionDomainType">Deduce</P>
+          <P Name="SIDHighWatermark">92</P>
+          <Block BlockType="Demux" Name=" Demux " SID="77::90">
+            <P Name="Ports">[1, 1]</P>
+            <P Name="Position">[270, 100, 320, 140]</P>
+            <P Name="ZOrder">70</P>
+            <P Name="Outputs">1</P>
+          </Block>
+          <Block BlockType="Ground" Name=" Ground " SID="77::92">
+            <P Name="Position">[20, 111, 40, 129]</P>
+            <P Name="ZOrder">72</P>
+          </Block>
+          <Block BlockType="S-Function" Name=" SFunction " SID="77::89">
+            <P Name="Tag">Stateflow S-Function project 3</P>
+            <P Name="Ports">[1, 1]</P>
+            <P Name="Position">[180, 100, 230, 140]</P>
+            <P Name="ZOrder">69</P>
+            <P Name="FunctionName">sf_sfun</P>
+            <P Name="PortCounts">[1 1]</P>
+            <P Name="SFunctionDeploymentMode">off</P>
+            <P Name="EnableBusSupport">off</P>
+            <P Name="SFcnIsStateOwnerBlock">off</P>
+          </Block>
+          <Block BlockType="Terminator" Name=" Terminator " SID="77::91">
+            <P Name="Position">[460, 111, 480, 129]</P>
+            <P Name="ZOrder">71</P>
+          </Block>
+          <Line>
+            <P Name="ZOrder">4</P>
+            <P Name="Src">77::92#out:1</P>
+            <P Name="Dst">77::89#in:1</P>
+          </Line>
+          <Line>
+            <P Name="ZOrder">5</P>
+            <P Name="Src">77::90#out:1</P>
+            <P Name="Dst">77::91#in:1</P>
+          </Line>
+          <Line>
+            <P Name="ZOrder">6</P>
+            <P Name="Src">77::89#out:1</P>
+            <P Name="Dst">77::90#in:1</P>
+          </Line>
+        </System>
+      </Block>
+      <Annotation SID="56">
+        <P Name="Name">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Arial Rounded MT Bold&apos;; font-size:22px; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Project Title: &lt;span style=&quot; font-family:&apos;Apple Color Emoji,Segoe UI,Segoe UI Emoji,Segoe UI Symbol&apos;; color:#24292e; background-color:#ffffff; vertical-align:middle;&quot;&gt;🔮🐙🏝️&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</P>
+        <P Name="Position">[699, 116, 914, 149]</P>
+        <P Name="InternalMargins">[0, 0, 0, 0]</P>
+        <P Name="Interpreter">rich</P>
+        <P Name="ZOrder">-3</P>
+        <P Name="FontName">Arial Rounded MT Bold</P>
+        <P Name="FontSize">22</P>
+      </Annotation>
+      <Annotation SID="65">
+        <P Name="Name">Copyright 2016 The MathWorks, Inc.</P>
+        <P Name="Position">[726, 692, 890, 704]</P>
+        <P Name="InternalMargins">[0, 0, 0, 0]</P>
+        <P Name="ZOrder">-9</P>
+      </Annotation>
+      <Annotation SID="66">
+        <P Name="Name">Add LEGO EV3 Sensors &amp; Inputs</P>
+        <P Name="Position">[403, 320, 603, 620]</P>
+        <P Name="InternalMargins">[0, 0, 0, 0]</P>
+        <P Name="FixedHeight">on</P>
+        <P Name="FixedWidth">on</P>
+        <P Name="HorizontalAlignment">left</P>
+        <P Name="VerticalAlignment">top</P>
+        <P Name="ForegroundColor">[0.901961, 1.000000, 0.901961]</P>
+        <P Name="BackgroundColor">[0.901961, 1.000000, 0.901961]</P>
+        <P Name="AnnotationType">area_annotation</P>
+        <P Name="ZOrder">914</P>
+        <P Name="FontName">Arial</P>
+        <P Name="FontSize">12</P>
+      </Annotation>
+      <Annotation SID="67">
+        <P Name="Name">Add LEGO EV3 Actuators &amp; Outputs</P>
+        <P Name="Position">[1013, 320, 1213, 620]</P>
+        <P Name="InternalMargins">[0, 0, 0, 0]</P>
+        <P Name="FixedHeight">on</P>
+        <P Name="FixedWidth">on</P>
+        <P Name="HorizontalAlignment">left</P>
+        <P Name="VerticalAlignment">top</P>
+        <P Name="ForegroundColor">[0.992157, 0.937255, 0.913725]</P>
+        <P Name="BackgroundColor">[0.992157, 0.937255, 0.913725]</P>
+        <P Name="AnnotationType">area_annotation</P>
+        <P Name="ZOrder">915</P>
+        <P Name="FontName">Arial</P>
+        <P Name="FontSize">12</P>
+      </Annotation>
+      <Annotation SID="68">
+        <P Name="Name">Add Display and Visualization</P>
+        <P Name="Position">[1013, 165, 1213, 315]</P>
+        <P Name="InternalMargins">[0, 0, 0, 0]</P>
+        <P Name="FixedHeight">on</P>
+        <P Name="FixedWidth">on</P>
+        <P Name="HorizontalAlignment">left</P>
+        <P Name="VerticalAlignment">top</P>
+        <P Name="ForegroundColor">[0.972549, 0.952941, 0.929412]</P>
+        <P Name="BackgroundColor">[0.972549, 0.952941, 0.929412]</P>
+        <P Name="AnnotationType">area_annotation</P>
+        <P Name="ZOrder">913</P>
+        <P Name="FontName">Arial</P>
+        <P Name="FontSize">12</P>
+      </Annotation>
+      <Annotation SID="69">
+        <P Name="Name">Design your algorithm here</P>
+        <P Name="Position">[607, 165, 1007, 620]</P>
+        <P Name="InternalMargins">[0, 0, 0, 0]</P>
+        <P Name="FixedHeight">on</P>
+        <P Name="FixedWidth">on</P>
+        <P Name="HorizontalAlignment">left</P>
+        <P Name="VerticalAlignment">top</P>
+        <P Name="ForegroundColor">[0.901961, 0.968627, 1.000000]</P>
+        <P Name="BackgroundColor">[0.901961, 0.968627, 1.000000]</P>
+        <P Name="AnnotationType">area_annotation</P>
+        <P Name="ZOrder">912</P>
+        <P Name="FontName">Arial</P>
+        <P Name="FontSize">12</P>
+      </Annotation>
+      <Annotation SID="70">
+        <P Name="Name">Add Simulation Sources</P>
+        <P Name="Position">[403, 165, 603, 315]</P>
+        <P Name="InternalMargins">[0, 0, 0, 0]</P>
+        <P Name="FixedHeight">on</P>
+        <P Name="FixedWidth">on</P>
+        <P Name="HorizontalAlignment">left</P>
+        <P Name="VerticalAlignment">top</P>
+        <P Name="ForegroundColor">[0.996078, 0.968627, 0.909804]</P>
+        <P Name="BackgroundColor">[0.996078, 0.968627, 0.909804]</P>
+        <P Name="AnnotationType">area_annotation</P>
+        <P Name="ZOrder">911</P>
+        <P Name="FontName">Arial</P>
+        <P Name="FontSize">12</P>
+      </Annotation>
+      <Annotation SID="75">
+        <P Name="Name">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Helvetica&apos;; font-size:10px; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot; font-family:&apos;Arial&apos;; font-size:12px; font-weight:600; color:#000000;&quot;&gt;Organizing functionality as color-coded areas makes block diagrams descriptive and helps to develop increasingly complex algorithms.&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Arial&apos;; font-size:12px; font-weight:600;&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</P>
+        <P Name="Position">[524, 639, 1091, 671]</P>
+        <P Name="InternalMargins">[0, 0, 0, 0]</P>
+        <P Name="FixedHeight">on</P>
+        <P Name="FixedWidth">on</P>
+        <P Name="HorizontalAlignment">left</P>
+        <P Name="VerticalAlignment">top</P>
+        <P Name="Interpreter">rich</P>
+        <P Name="ZOrder">-5</P>
+      </Annotation>
+    </System>
+  </Model>
+</ModelInformation>
