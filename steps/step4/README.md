@@ -1,3 +1,3 @@
 ## Step 4
 
-### Editor: Jakob Löhnertz & Christian Stuart
+### Editor: Jakob Löhnertz, Wouter Bohlken & Christian Stuart
