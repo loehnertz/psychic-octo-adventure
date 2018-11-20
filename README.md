@@ -1,9 +1,8 @@
 # psychic-octo-adventure
-## Embedded Software and Systems
 
-### Team name: 🔮🐙🏝️
+### Embedded Software and Systems
 
----
+#### Team name: 🔮🐙🏝️
 
 Team members:
 - Wouter Bohlken
